@@ -30,6 +30,9 @@ body {
     border-top: 1px dashed #000000;
   }
   
+  /* Color change style for text areas */
+  
+  
   .past {
     background-color: #d3d3d3;
     color: white;
